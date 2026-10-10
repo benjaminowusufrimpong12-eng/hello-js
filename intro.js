@@ -1,0 +1,1 @@
+console.log("Benjamin Frmipong,18years old, javascript")
